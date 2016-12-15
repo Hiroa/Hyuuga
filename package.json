@@ -1,0 +1,24 @@
+{
+  "name": "hyuuga",
+  "version": "1.0.0",
+  "description": "Bot for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hiroa/Hyuuga.git"
+  },
+  "keywords": [
+    "bot",
+    "node.js",
+    "js"
+  ],
+  "author": "Hiroa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hiroa/Hyuuga/issues"
+  },
+  "homepage": "https://github.com/Hiroa/Hyuuga#readme"
+}
